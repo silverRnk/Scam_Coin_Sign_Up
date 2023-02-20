@@ -115,7 +115,7 @@ Page 2
 .page-2{
     width: 100vw;
     height: 960px;
-    background-image: url('assets/scam_coin.png');
+    background-image: url('.assets/scam_coin.png');
     overflow: hidden;
     /* background: red; */
 
